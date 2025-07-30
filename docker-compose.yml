@@ -8,6 +8,7 @@ services:
       TZ: 'America/Chicago'
       SERVER_ADMIN: 'joey@cultofjoey.com'
       HTTP_SERVER_NAME: 'link.cultofjoey.com'
+      HTTPS_SERVER_NAME: 'link.cultofjoey.com'
       LOG_LEVEL: 'info'
       PHP_MEMORY_LIMIT: '256M'
       UPLOAD_MAX_FILESIZE: '8M'
